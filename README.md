@@ -17,9 +17,5 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
+...
 - Lance Turbes
-
-## Anything after this point is personal practice
-Right now, I'm going to test git flow.
-Following that, I'll make another practice commit.
-And then another!
